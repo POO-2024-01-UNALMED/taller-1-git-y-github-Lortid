@@ -1,0 +1,1 @@
+Lo que ocurrió con la carpeta archivos fue que esta se subió al repositorio al momento de crear el archivo respuesta.txt, hacer el commit y después hacer el push a github
