@@ -1,0 +1,2 @@
+No ocurrió ningun problema con respecto al punto anterior, pero al momento de añadir el archivo, nos toca añadirlo al repositorio y posteriormente subirlo a github(push), git no tma encuenta las carpetas, por ende en el punto 8 realizar el commit no tiene sentido
+
