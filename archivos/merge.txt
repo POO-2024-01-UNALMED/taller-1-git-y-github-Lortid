@@ -1,5 +1,11 @@
+
 - Nombre : Jaime Luis Osorio Gómez
 - Edad : 17 años
 
 Mis aspiraciones con la materia es aprender el paradigma de progamación orientada a objetos, el cual es escencial para el desarrollo de código y software por lo cuál como ingeniero de sistemas es de vital importancia comprender y saber acerca de este paradigma en los lenguajes de programación que aborda el curso, también como parte fundamental el curso aborda en algunos aspectos el trabajo colaborativo y versionado en git y github, unas herramientas muy escenciales para el desarrollo. Por otra parte aspiro para el curso, aprender a trabajar y colaborar en equipo, lo cuál es una pieza de gran valor en la industria.
+
+
+Lo que ocurrió con la carpeta archivos fue que esta se subió al repositorio al momento de crear el archivo respuesta.txt, hacer el commit y después hacer el push a github
+
+Es importante tener cuidado con modificar dos archivos al mismo tiempo, ya que si modificamos lineas iguales de este, se va generar un conflicto el cuál puede ocasionar graves errores en nuestro código o en lo que estamos haciendo, por ende siempre tenemos que tener en cuenta lo que estamos modificando de un archivo.
 
